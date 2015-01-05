@@ -1,4 +1,3 @@
-def multiply(a, b) {
+def multiply(a, b) :
 	result = a * b
 	return result
-}
